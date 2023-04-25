@@ -2,8 +2,8 @@ pipeline {
     agent any
 
     environment {
-        NAME = 'Sateesh'
-        LASTNAME = 'Pabbathi'
+        NAME = 'ajaysagar'
+        LASTNAME = 'Musini'
     }
 
     stages {
